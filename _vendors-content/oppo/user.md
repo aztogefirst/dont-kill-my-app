@@ -1,8 +1,8 @@
----
+start
 manufacturer: 
     - oppo
 
----
+start
 
 ## Oppo F1S
 
